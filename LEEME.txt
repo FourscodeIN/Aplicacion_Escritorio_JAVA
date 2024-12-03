@@ -1,0 +1,21 @@
+Aplicación de Escritorio: NovaBank
+
+NovaBank es una aplicación de escritorio pequeña diseñada para ofrecer las funcionalidades esenciales de un sistema bancario. Entre sus principales características se incluyen:
+
+Gestión de clientes: Registro, actualización y consulta de información.
+Administración de cuentas: Creación y mantenimiento de cuentas bancarias.
+Reportes y tablas: Generación de informes detallados sobre datos y transacciones.
+Transacciones financieras: Manejo de saldos, transferencias y pagos.
+Solicitud de servicios: Gestión de productos y servicios ofrecidos por la entidad bancaria.
+
+Tecnología empleada:
+
+Backend: Desarrollado en Java.
+Base de datos: MySQL para almacenamiento y gestión de datos.
+Documentación: Código completamente documentado para facilitar la comprensión y el mantenimiento.
+
+Nota importante:
+Para utilizar correctamente la aplicación, es necesario instalar XAMPP Control, abrir localhost, y crear una base de datos llamada 'banco'. Luego, importe el archivo correspondiente, ubicado en el repositorio, con el mismo nombre.
+
+Creador: Brayan Mesa Palacio
+Usuario: FourscodeIN
