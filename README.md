@@ -70,13 +70,17 @@ Sigue estos pasos para ejecutar correctamente **NovaBank** en tu equipo local:
 ## Estructura del proyecto
 ```
 NovaBank/
+├── build/
+├── nbproyect/
 ├── src/
 │ ├── gui/ # Clases de conexión 
 │ ├── modelo/ # Lógica de negocio
-│ ├── sql/ # Imágenes aplicativo
+│ ├── imagenes/ # Imágenes aplicativo
 │ ├── icons/ # Íconos e imágenes utilizadas en la interfaz
 │ ├── sql/ # Archivo de base de datos 'banco.sql'
+├── test/
 ├── README.md
+├── manifest.mf
 └── LICENSE
 ```
 
