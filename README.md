@@ -71,14 +71,11 @@ Sigue estos pasos para ejecutar correctamente **NovaBank** en tu equipo local:
 ```
 NovaBank/
 ├── src/
-│ ├── model/ # Clases de conexión y lógica de negocio
-│ ├── view/ # Interfaces gráficas (formularios)
-│ ├── controller/ # Controladores y validaciones
-│ └── utils/ # Funciones auxiliares y constantes
-├── resources/
+│ ├── gui/ # Clases de conexión 
+│ ├── modelo/ # Lógica de negocio
+│ ├── sql/ # Imágenes aplicativo
 │ ├── icons/ # Íconos e imágenes utilizadas en la interfaz
 │ ├── sql/ # Archivo de base de datos 'banco.sql'
-│ └── docs/ # Documentación y diagramas
 ├── README.md
 └── LICENSE
 ```
