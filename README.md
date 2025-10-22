@@ -78,8 +78,8 @@ NovaBank/
 │ ├── imagenes/ # Imágenes aplicativo
 │ ├── icons/ # Íconos e imágenes utilizadas en la interfaz
 │ ├── sql/ # Archivo de base de datos 'banco.sql'
-├── test/
 ├── README.md
+├── build.xml
 ├── manifest.mf
 └── LICENSE
 ```
