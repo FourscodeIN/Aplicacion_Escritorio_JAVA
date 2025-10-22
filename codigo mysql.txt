@@ -1,9 +1,0 @@
-CREATE TABLE services (
-    cod_servicio INT PRIMARY KEY,
-    tipo_servicio VARCHAR(50) NOT NULL,                   
-    cliente_id INT NOT NULL,                     
-    saldo DECIMAL(10,2) NOT NULL,                
-    FOREIGN KEY (cliente_id) REFERENCES clientes(documento)
-); 
-
-//Unicamente la relación de una tabla como ejemplo para que lo analices
