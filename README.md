@@ -70,7 +70,7 @@ Sigue estos pasos para ejecutar correctamente **NovaBank** en tu equipo local:
 ## Estructura del proyecto
 ```
 NovaBank/
-├── build/
+├── build/class/
 ├── nbproyect/
 ├── src/
 │ ├── gui/ # Clases de conexión 
